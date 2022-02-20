@@ -2,16 +2,16 @@ Basics,
 
 Addresses in RAM , pointers point to those addresses , which means they store address
 
-**“Pointers are variables that store addresses”**
+“Pointers are variables that store addresses”
 
 Pointers are generally “Type specific”
 
-***int - 4 Bytes*** 
+int - 4 Bytes
 
-***char - 1 Byte***
+char - 1 Byte
 
-***Float - 4 Bytes***
+Float - 4 Bytes
 
 Then there is a **Void Pointer** that is not type specific
 
-`void *ptr;`
+void *ptr;
